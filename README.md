@@ -5,6 +5,6 @@ Este repositório se trata da atividade de extensão referente a Commits Convenc
 
 Segue descrito abaixo o nome dos integrantes do grupo !
 
-Jean Bressan
-João Victor
-Gabriel Carvalho
+- Jean Bressan
+- João Victor
+- Gabriel Carvalho
