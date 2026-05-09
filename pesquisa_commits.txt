@@ -1,0 +1,11 @@
+O que é o padrão Conventional Commits?
+
+-> O Conventional Commits é uma convenção de mensagens de commit que adiciona uma estrutura de entendimento tanto para humanos quanto para máquinas.
+
+Prefixos
+
+Feat - Indica uma nova funcionalidade no sistema
+Fix - Utilizado quando o commit resolve um bug
+Docs - Commits sobre alteração na documentação
+Style - Commits sobre mudança de formatação.
+Refactor - Commits que melhoram a estrutura do código.
